@@ -1,7 +1,7 @@
 
 # Olá! Eu sou Thiago Símplicio😁
 
-Olá, me chamo Thiago Símplicio e tenho 17 anos!
+### Olá, me chamo Thiago Símplicio e tenho 17 anos!
 
 Atualmente estudante de programação em cursos como o da OneBitCode, foco em desenvolvimento backend e banco de dados, tenho 4 anos em cursos de design gráfico e edição de vídeo, porém não procuro empregos na área, sou apaixonado por tecnologia desde que criança e com um amor pessoal em desenvolvimento.
 
